@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Private</cacheControl>
+    <contentType>text/javascript</contentType>
+    <description>babel js file, source taken from https://babeljs.io/docs/en/babel-standalone src=&quot;https://unpkg.com/@babel/standalone/babel.min.js&quot;</description>
+</StaticResource>
